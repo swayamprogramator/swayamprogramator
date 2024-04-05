@@ -57,5 +57,9 @@
     -Won Consolation prize for that from NIT Raipur Alumini Association.
   </samp>
 </p>
-
+<p align="center">
+  <samp>
+    Feel free to explore my repositories and don't hesitate to connect with me!
+  </samp>
+</p>
 
