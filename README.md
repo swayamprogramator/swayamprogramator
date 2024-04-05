@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-sharma-a159a9292">LinkedIn</a> |
-  <a href="https://www.instagram.com/harsh_sharma.23/">Instagram</a>
+  <a href="https://www.instagram.com/_harsh_sharma.23/">Instagram</a>
 </p>
 
 <p align="center">
