@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-sharma-a159a9292">LinkedIn</a> |
-  <a href="https://www.instagram.com/_harsh_sharma.23/">Instagram</a>
+  <a href="https://www.instagram.com/_harsh_sharma_.23/">Instagram</a>
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@
   <a href="https://www.linkedin.com/in/harsh-sharma-a159a9292">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/_harsh_sharma.23/">
+  <a href="https://www.instagram.com/_harsh_sharma_.23/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
