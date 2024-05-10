@@ -10,9 +10,14 @@
   <a href="https://www.instagram.com/_harsh_sharma_.23/">Instagram</a>
 </p>
 
+<!-- Add this code where you want to display the total commits in your README -->
+<h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swayamprogramator&show_icons=true&theme=radical" alt="Harsh Sharma's GitHub Stats">
+  <samp>
+    Total Commits: <span id="total-commits"></span>
+  </samp>
 </p>
+
 
 <h2 align="center">About Me</h2>
 <p align="center">
@@ -62,4 +67,15 @@
     Feel free to explore my repositories and don't hesitate to connect with me!
   </samp>
 </p>
-
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  fetch("https://api.github.com/repos/YourUsername/YourRepository/commits?per_page=1")
+    .then(response => response.json())
+    .then(data => {
+      document.getElementById("total-commits").textContent = data.length;
+    })
+    .catch(error => {
+      console.error("Error fetching commits:", error);
+    });
+});
+</script>
