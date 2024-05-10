@@ -37,6 +37,14 @@
     <img src="https://img.icons8.com/color/48/000000/communication.png" alt="Communication">
   </samp>
 </p>
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swayamprogramator&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="300" alt="languages graph"  />
+
+###
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=swayamprogramator&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="300" alt="swayamprogramator" />
+
+###
 
 <h2 align="center">Connect with Me</h2>
 <p align="center">
