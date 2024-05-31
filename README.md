@@ -43,6 +43,7 @@
 
 ###
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=swayamprogramator&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="300" alt="swayamprogramator" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swayamprogramator&" alt="swayamprogramator" /></p>
 
 ###
 
@@ -54,6 +55,7 @@
   <a href="https://www.instagram.com/_harsh_sharma_.23/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
+  
 </p>
 
 <h2 align="center">Projects</h2>
