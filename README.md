@@ -23,6 +23,7 @@
   </samp>
 </p>
 
+
 ### 📚 &nbsp;Languages :
 <br>
 <p>
@@ -64,23 +65,30 @@
 <a href="#"><img src="https://code.visualstudio.com/assets/images/code-stable.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"> </a> &nbsp;
 <a href="#"><img src="https://th.bing.com/th?id=OSAAS.67CE744F3AF9AB3181DA21630627453B&w=80&h=80&o=6&dpr=2&pid=5.1" title="Notepad++" alt="Notepad++" width="40" height="40"> </a> &nbsp;
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/> </a>
-<img src="https://img.icons8.com/color/48/jupyter.png" alt="JupyterLab">&nbsp;&nbsp;
 <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub">&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="48" height="48">&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="48" height="48">&nbsp;&nbsp;
 
 </p>
 
-
+<summary><h2> 🔥 &nbsp; My Stats : </h2></summary>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swayamprogramator&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="300" alt="languages graph"  />
-
+  
 ###
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=swayamprogramator&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="300" alt="swayamprogramator" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swayamprogramator&" alt="swayamprogramator" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=swayamprogramator&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="300" alt="languages graph"  />
+
 
  ###
+<details open>
+  
+<summary><h2>🏆 &nbsp; GitHub Profile Trophies :</summary></h2
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=swayamprogramator&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
+
+</details>
 
 <h2 align="center">Connect with Me</h2>
 <p align="center">
@@ -92,6 +100,7 @@
   </a>
   
 </p>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/swayamprogramator/count.svg" />
@@ -101,9 +110,18 @@
 <p align="center">
   <samp>
     Here are some projects I'm proud of:<br>
-    - [ES Waste Management System][AI based model: Eco Lens]
-    -Won Consolation prize for that from NIT Raipur Alumini Association.
+    - [E Waste Management System][AI based model: Eco Lens]
+    Won Consolation prize for that from NIT Raipur Alumini Association.
   </samp>
+  <br>
+  <samp>
+    - [UTD CSVTu Bhilai Website]
+  </samp>
+  <br>
+    <samp>
+    - [Programmers Paradise Website]
+  </samp>
+  
 </p>
 <p align="center">
   <samp>
