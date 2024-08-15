@@ -23,21 +23,56 @@
   </samp>
 </p>
 
-<h2 align="center">Skills</h2>
-<p align="center">
-  <samp>
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">&nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C">&nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++">&nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Microsoft Excel">&nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" alt="Microsoft Word">
-     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">&nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS">&nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">&nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/communication.png" alt="Communication">
-  </samp>
+### 📚 &nbsp;Languages :
+<br>
+<p>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C Language" width="40" height="40"></a>&nbsp;
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++ Language" alt="C++ Language" width="40" height="40"></a> &nbsp;
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="40" height="40"> </a>&nbsp;
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS" alt="CSS" width="40" height="40"/> </a> &nbsp;
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/> </a> &nbsp;
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>   </a> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="48" height="48">&nbsp;&nbsp;
 </p>
-###
+
+### 📑 &nbsp;Frameworks & Libraries :
+<br>
+<p>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="numpy" width="40" height="40"></a> &nbsp;
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"></a> &nbsp;
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="48" height="48">&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="48" height="48">&nbsp;&nbsp;
+
+
+
+### 💻 &nbsp;Databases :
+<br>
+<p>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"> </a> &nbsp;
+
+</p>
+
+### 🌟 &nbsp; Technology and Tools :
+<br>
+<p>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="GCC" alt="GCC" width="40" height="40"></a> &nbsp;
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"> </a> &nbsp;
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"></a>  &nbsp;
+<a href="#"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" title="Google Colab" alt="Google Colab" width="40" height="40"> </a> &nbsp;
+
+<a href="#"><img src="https://th.bing.com/th/id/R.c936445e15a65dfdba20a63e14e7df39?rik=fqWqO9kKIVlK7g&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f58481537cef1014c0b5e4968.png&ehk=dtrTKn1QsJ3%2b2TFlSfLR%2fxHdNYHdrqqCUUs8voipcI8%3d&risl=&pid=ImgRaw&r=0" title="PyCharm" alt="PyCharm" width="40" height="40"></a>  &nbsp;
+<a href="#"><img src="https://code.visualstudio.com/assets/images/code-stable.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"> </a> &nbsp;
+<a href="#"><img src="https://th.bing.com/th?id=OSAAS.67CE744F3AF9AB3181DA21630627453B&w=80&h=80&o=6&dpr=2&pid=5.1" title="Notepad++" alt="Notepad++" width="40" height="40"> </a> &nbsp;
+<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/> </a>
+<img src="https://img.icons8.com/color/48/jupyter.png" alt="JupyterLab">&nbsp;&nbsp;
+<img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub">&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="48" height="48">&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="48" height="48">&nbsp;&nbsp;
+
+</p>
+
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swayamprogramator&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="300" alt="languages graph"  />
 
@@ -56,6 +91,10 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   
+</p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/swayamprogramator/count.svg" />
 </p>
 
 <h2 align="center">Projects</h2>
