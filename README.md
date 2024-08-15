@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hi there, I'm Harsh Sharma!</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=33&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Harsh+Sharma+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Harsh Welcome to my Profile! animated typed out">
+<div align="center">
+ <img src="https://github.com/Programmers-Paradise/programmmers-paradise.github.io/blob/main/members/Harsh_sharma.jpeg" height='400'width='500' />
+</div>
 <p align="center">
   <samp>
     🚀 Student of Btech (Hons) in CSE AI | 💡 Passionate Learner | 🌍 Bhilai, Chattisgarh
@@ -10,7 +13,8 @@
   <a href="https://www.instagram.com/_harsh_sharma_.23/">Instagram</a>
 </p>
 
-<!-- Add this code where you want to display the total commits in your README -->
+
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=maxprogrammer007&theme=matrix" alt="swayamprogramator" /></a> </p>
 
 
 <h2 align="center">About Me</h2>
@@ -82,13 +86,7 @@
 
 
  ###
-<details open>
-  
-<summary><h2>🏆 &nbsp; GitHub Profile Trophies :</summary></h2
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=swayamprogramator&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
-
-</details>
 
 <h2 align="center">Connect with Me</h2>
 <p align="center">
