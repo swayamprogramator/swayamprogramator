@@ -113,7 +113,7 @@
   </samp>
   <br>
   <samp>
-    - [UTD CSVTu Bhilai Website]
+    - [UTD CSVTU Bhilai Website]
   </samp>
   <br>
     <samp>
